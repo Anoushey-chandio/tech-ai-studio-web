@@ -19,7 +19,7 @@ export default function Hero() {
           <span className="h-2 w-2 animate-pulse rounded-full bg-sky" />
           tech.ai.studio &middot; Anoushey Chandio
         </p>
-        <h1 className="text-4xl font-extrabold leading-[1.08] sm:text-6xl lg:text-7xl">
+        <h1 className="text-2xl font-extrabold leading-[1.08] sm:text-6xl lg:text-7xl">
           Turn your ideas into <span className="hl-h">scroll-stopping reels.</span>
         </h1>
         <p className="mt-6 max-w-xl text-lg text-ink-soft">
